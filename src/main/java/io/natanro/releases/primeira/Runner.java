@@ -1,4 +1,4 @@
-package io.natanro;
+package io.natanro.releases.primeira;
 
 import java.util.Scanner;
 
